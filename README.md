@@ -1,1 +1,2 @@
-# C-38-Infinite-Runner-Game
+# Infinite Runner Game
+
